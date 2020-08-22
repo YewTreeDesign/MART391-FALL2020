@@ -6,3 +6,5 @@
 <br>
 Now going to the country you want to learn the language from can be a great experience, but not a lot of people have that privilege or time to simply spend a year in a different country. So AR could be very handy to those who really want to learn a new language or to just learn something in general.
 </p>
+<br>
+<img>"image/quiz_screenshot.png"</img>

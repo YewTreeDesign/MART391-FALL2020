@@ -10,7 +10,7 @@
 The type of markers that I've played around with was the marker less and the frame method to place objects.
 <br>
 
-I would've recorded the experience but for some reason OBS couldn't record my unity window for some reason or could it identify it. I also didn't have a ton of time to work on this week's homework because of unexpected life events. I may just come back here to upload the footage when I can.
+I would've recorded but OBS couldn't record my unity window for some reason or couldn't identify it. I also didn't have a ton of time to work on this week's homework because of unexpected life events. I may just come back here to upload the footage when I can.
 
 <hr>
 <h3> Short Paper </h3>

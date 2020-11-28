@@ -4,13 +4,12 @@
 <p> While I have learned an immense amount of things about AR & VR. Also learning about working with 3D software.<br>
 Learning both a 3D software and a gaming software works hand in hand if you're looking to create your own game, with your own assets.<br>
 Unfortunately, because of how fast the weeks are narrowing down, even faster after I've been sick with Covid-19 and demanding job, I haven't been able to push a FINAL product yet. The prototype I have is the only working version I have, here's the repos.<br> <br>
+ 
 https://github.com/YewTreeDesign/MART391-FALL2020/tree/master/Homework/5/Exp2
 https://github.com/YewTreeDesign/MART391-FALL2020/tree/master/Homework/3
 
 
-
-
-Even though I haven't been successful in pushing the final version of what I wanted to create as my final project, I have created bits and pieces along the way to create something that might be more complete in the future, now that I've learned the fundamentals to do it. The greatest challenge I had was with time.
+Even though I haven't been successful in pushing the final version of what I wanted to create as my final project, I have created bits and pieces and learned along the way to create something that might be more complete in the future, now that I've learned the fundamentals to do it. The greatest challenge I had was with time.
 </p>
 <br>
 
@@ -33,3 +32,7 @@ Even though I haven't been successful in pushing the final version of what I wan
 <b> Here's footage of the working app.</b>
 
 [![Watch the video](https://i.gyazo.com/c2e4b90560cc6e355d9013aa0867cef3.png)](https://drive.google.com/file/d/1O72fi1-oghgzEOPBTRqmk2Cm7Vz3mcz5/view?usp=sharing)
+
+<br>
+
+Dispite all of the inconveiences that's been thrown my way, I have enjoyed being a part of this class. Hopefully 2021 gets better.

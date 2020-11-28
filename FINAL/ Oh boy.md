@@ -3,7 +3,9 @@
 
 <p> While I have learned an immense amount of things about AR & VR. Also learning about working with 3D software.<br>
 Learning both a 3D software and a gaming software works hand in hand if you're looking to create your own game, with your own assets.<br>
-Unfortunately, because of how fast the weeks are narrowing down, even faster after I've been sick with Covid-19 and demanding job, I haven't been able to push a FINAL product yet. The prototype I have is the only working version I have, I'll clone it in my repo.<br> <br>
+Unfortunately, because of how fast the weeks are narrowing down, even faster after I've been sick with Covid-19 and demanding job, I haven't been able to push a FINAL product yet. The prototype I have is the only working version I have, here's the repos.<br> <br>
+https://github.com/YewTreeDesign/MART391-FALL2020/tree/master/Homework/5/Exp2
+https://github.com/YewTreeDesign/MART391-FALL2020/tree/master/Homework/3
 
 
 [![Watch the video](https://i.gyazo.com/d197df6cd07cb4d87681e8f2cb0460da.png)](https://drive.google.com/file/d/1KTzQe6MPLwPO7N1UUMYuhuk0wok005ZV/view?usp=sharing)]

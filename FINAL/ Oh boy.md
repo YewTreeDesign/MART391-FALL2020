@@ -21,7 +21,8 @@ Even though I haven't been successful in pushing the final version of what I wan
 <h1> Alright</h1>
 <br>
 <p> For my project, I was originally planning to create a tomogatchi-inspired AR application based around this lizard.<br>
-[![Watch the video](https://i.gyazo.com/b93fa453cc4fc1fae787f6206ae2726f.png)](https://drive.google.com/file/d/1QH0W1srZ2jzWxXrS_NLeB9oqaeUvMZj-/view?usp=sharing)<br>
+
+[![Watch the video](https://i.gyazo.com/b93fa453cc4fc1fae787f6206ae2726f.png)](https://drive.google.com/file/d/1QH0W1srZ2jzWxXrS_NLeB9oqaeUvMZj-/view?usp=sharing) <br>
 
  I am still able to place and disorient my 3D model, but there is no animation or anything interesting since last time I've shown my prototype. Still even pulling the application on my phone I am still happy that I got it to work. What I've also tried to work on before I got sick was successfully rig my Lizard Model. IT WORKED OUT! I've misplaced or I probably didn't save what I had, but I've recreated what I have done, albeit, a bit janky. <br></p>
 
